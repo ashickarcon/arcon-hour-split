@@ -1,0 +1,23 @@
+# Buildozer files
+.buildozer/
+bin/
+*.apk
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+icon.ico
